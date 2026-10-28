@@ -1,1 +1,2 @@
-# git-practice
+# Git 练习仓库
+本仓库用于 Web 高级编程课程作业1 的 Git 操作练习。
